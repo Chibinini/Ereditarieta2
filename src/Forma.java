@@ -14,21 +14,5 @@ class Forma {
     public void calcolaArea() {
         System.out.println("Calcolo generale ");
 
-    }
-    //getter
-    public double getLarghezza() {
-        return larghezza;
-    }
-    //setter
-    public void setLarghezza(double larghezza) {
-        this.larghezza = larghezza;
-    }
-
-    public double getAltezza() {
-        return altezza;
-    }
-
-    public void setAltezza(double altezza) {
-        this.altezza = altezza;
-    }
+}
 }
